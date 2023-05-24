@@ -1,6 +1,6 @@
 app:
   # Update your applicationId
-  applicationId: ${77da0ca5-4b01-4f71-a471-bc73aa18a5c6}
+  applicationId: ${APP_ID:77da0ca5-4b01-4f71-a471-bc73aa18a5c6}
   env: ${APP_ENV:GitHub Actions}
   host: ${APP_HOST:https://localhost:9000}
   excludePaths:
